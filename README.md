@@ -1,3 +1,3 @@
-# Homework-Six-Weather
+# Welcome!
 
-![image of umbrellas](Six_Weather_API\assets\6.png)
+![image of umbrellas for weather](https://user-images.githubusercontent.com/55456375/70283411-3de5a600-177e-11ea-93bc-493138a52541.png)
