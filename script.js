@@ -7,6 +7,7 @@ $(document).ready(function() {
       // clear input box
       $("#input").val("");
       searchWeather(input);
+
     });
     $(".history").on("click", "li", function() {
       searchWeather($(this).text());
@@ -33,3 +34,8 @@ $(document).ready(function() {
           makeRow(input);
         }
     }
+
+    })
+}
+
+})
